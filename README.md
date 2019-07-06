@@ -73,6 +73,9 @@ Model testing of greedy search can be started by running the [testing_beam_searc
 
 Run the the [score_predictions.sh](https://github.com/sysu-yanglab/Self-Corrected-Retrosynthetic-Reaction-Predictor/blob/master/score_predictions.sh) script to get the top-10 accuracy.
 
+# Molecular syntax corrector
+
+Coming soon ...
 
 ## Citation
 
